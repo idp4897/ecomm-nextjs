@@ -1,0 +1,9 @@
+.search-input {
+  background-color: #f0f0f0;
+  width: 577px;
+  border-radius: 62px;
+}
+
+.search-input:hover {
+  background-color: #f0f0f0;
+}
