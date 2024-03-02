@@ -1,0 +1,11 @@
+.black-button {
+  background-color: black;
+  color: white;
+  width: 210px;
+  height: 52px;
+  border-radius: 62px;
+}
+.black-button:hover {
+  background-color: black !important;
+  color: white !important;
+}
